@@ -1,5 +1,4 @@
-﻿using UserService.Models;
-using UserService.Models.DomainInterfaces;
+﻿using UserService.Models.DomainInterfaces;
 
 namespace UserService;
 
